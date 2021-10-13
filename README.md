@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nodejshobby
-- 👀 I’m interested in any backend web development
+- 👀 I’m interested in any backend web development project
 - 💞️ I’m looking to collaborate on any nodejs backend project
 - 📫 How to reach me +2348132961732, +2349133152425 or Email: nodejshobby@gmail.com
 <!---
