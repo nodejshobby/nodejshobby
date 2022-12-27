@@ -31,8 +31,6 @@ Experienced in JAVASCRIPT || Vuejs || Nodejs || Expressjs || PHP || LARAVEL || O
 
 
 
-🔭 A Student of GigsTech Solutions & Consults
-
 🔭 I’m currently working on @Synthatech as a remote Backend Developer 
 
 👯 I’m looking to collaborate on Great Projects and Technology Solutions
