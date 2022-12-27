@@ -67,7 +67,6 @@ Sport: :basketball: Basketball :tennis: Tennis
   
 </details>
 
->  <h2>“If debugging is the process of removing software bugs, then programming must be the process of putting them in”</h2>
 >  <h2>“Great User Interface without backend is like a a Car without engine”</h2>
 
 
