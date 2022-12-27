@@ -31,7 +31,7 @@ Experienced in JAVASCRIPT || Vuejs || Nodejs || Expressjs || PHP || LARAVEL || O
 
 
 
-🔭 I’m currently working on @Synthatech as a remote Backend Developer 
+🔭 I’m currently working @ Synthatech as a remote Backend Developer 
 
 👯 I’m looking to collaborate on Great Projects and Technology Solutions
 
@@ -68,6 +68,7 @@ Sport: :basketball: Basketball :tennis: Tennis
 </details>
 
 >  <h2>“If debugging is the process of removing software bugs, then programming must be the process of putting them in”</h2>
+>  <h2>“Great User Interface without backend is like a a Car without engine”</h2>
 
 
 
