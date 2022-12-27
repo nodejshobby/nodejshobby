@@ -46,7 +46,7 @@ Sport: :basketball: Basketball :tennis: Tennis
 ⚡:blush: Fun fact: I spend 12 hours developing a 6 Days of Project.
 
 <details>
-<summary>My top languages and tools</summary>
+   <summary><b>My top languages and tools</b></summary>
   
 | Rank |   Languages   |
 |-----:|---------------|
