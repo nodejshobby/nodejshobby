@@ -1,6 +1,6 @@
 <h4>Hi, I'm <a href="https://github.com/nodejshobby">YEKINNI BASIRU</a></h4>
 
-<h3>Yekinni Basiru</h3> is a young Software Full-Stack developer but a backend developer oriented in a well set up environment for collaborative works.He makes use of sophisticated programming languages in writing correct and efficent codes to solve problems. I am a passionate and result-driven backend web developer with more than 4 years of hands-on experience using PHP and JavaScript with its related stacks. ⚡.
+<h3>Yekinni Basiru</h3> is a young Software Full-Stack developer but a backend developer oriented in a well set up environment for collaborative works.He makes use of sophisticated programming languages in writing correct and efficent codes to solve problems. He is passionate and result-driven backend web developer with more than 4 years of hands-on experience using PHP and JavaScript with its related stacks. ⚡.
 <p></p>
 Experienced in JAVASCRIPT || Vuejs || Nodejs || Expressjs || PHP || LARAVEL || OBJECT ORIENTED (OOP) || HTML || CSS ||  AJAX || MYSQL DATABASE || MongoDb || Redis || Heroku || Digital Ocean 
 <p></p>
