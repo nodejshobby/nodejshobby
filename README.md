@@ -67,7 +67,7 @@ Sport: :basketball: Basketball :tennis: Tennis
   
 </details>
 
->  <h2>“Great User Interface without Backend is like a Car without engine”</h2>
+>  <h2><b>“Great User Interface without Backend is like a Car without engine”</b></h2>
 
 
 
