@@ -13,7 +13,7 @@ Experienced in JAVASCRIPT || React || React Native || Web3 || Vuejs || Nodejs ||
 
 <h1 style="color:blue;">Connect Me</h1>
 
-<a href="http://www.linkedin.com/in/nodejshobby/">
+<a href="https://www.linkedin.com/in/basiru-yekinni-13102b269">
 
    ![](https://user-images.githubusercontent.com/72305068/189481583-9c515c9b-27d1-4acd-be09-30e1fa752867.svg)
 
